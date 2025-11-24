@@ -12,6 +12,8 @@ class Card:
         self.example = None
 
     def add_data(self, data):
+        if len(data) == 0:
+            return
         if not self.eng:
             self.eng = data
         elif not self.deu:
@@ -77,7 +79,8 @@ pdfs = []
 for sheet, cards in enumerate(slicer(deck, 9)):
     replacements = {}
     for i, card in enumerate(cards):
-        replacements[f"Category{i+1}"] = "".join(card.category)
+        replacements[f"Category{i+1}l"] = card.category[0]
+        replacements[f"Category{i+1}r"] = card.category[1]
         replacements[f"FrontTop{i+1}"] = card.deu
         replacements[f"FrontBottom{i+1}"] = ""
         replacements[f"BackTop{i+1}"] = card.eng
@@ -103,7 +106,7 @@ for sheet, cards in enumerate(slicer(deck, 9)):
     run(("inkscape", f"--export-filename={fname}-back.pdf", "--export-type=pdf", f"{fname}-back.svg"), check=True)
     pdfs.append(f"{fname}-back.pdf")
 
-cmdline = ["pdfjoin", "-o", "Sheets.pdf"]
+cmdline = ["pdfjoin", "--landscape", "-o", "Sheets.pdf"]
 cmdline.extend(pdfs)
 run(cmdline, check=True)
 

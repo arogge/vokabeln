@@ -7,15 +7,430 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
    version="1.1"
    id="svg8"
-   sodipodi:docname="Karten-Back.svg"
+   sodipodi:docname="Karten-Front2.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="208.94296"
+       y="76.202821"
+       width="80.178455"
+       height="14.396327"
+       id="rect961" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198243"
+       height="5.4643045"
+       id="rect955" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.901521"
+       height="5.2984095"
+       id="rect949" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.22401"
+       height="28.568293"
+       id="rect943" />
+    <rect
+       x="-60.600651"
+       y="126.87315"
+       width="47.873505"
+       height="39.8265"
+       id="rect915" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect943-3" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect974" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect949-6" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect977" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect955-8" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect980" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect961-0" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect983" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect943-1" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect974-0" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect949-8" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect977-5" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect955-0" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect980-6" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect961-4" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect983-6" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect943-4" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect1142" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect949-7" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect1145" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect955-2" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect1148" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect961-40" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect1151" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect943-3-6" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect1154" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect949-6-2" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect1157" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect955-8-9" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect1160" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect961-0-9" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect1163" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect943-1-0" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect1166" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect949-8-8" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect1169" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect955-0-1" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect1172" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect961-4-3" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect1175" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect943-5" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect1142-6" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect949-64" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect1145-0" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect955-04" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect1148-6" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect961-2" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect1151-6" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect943-3-7" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect1154-5" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect949-6-6" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect1157-9" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect955-8-8" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect1160-7" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect961-0-2" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect1163-8" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect943-1-2" />
+    <rect
+       x="208.92323"
+       y="31.322735"
+       width="79.224007"
+       height="28.568293"
+       id="rect1166-9" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect949-8-9" />
+    <rect
+       x="209.0365"
+       y="19.051619"
+       width="46.90152"
+       height="5.2984095"
+       id="rect1169-6" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect955-0-0" />
+    <rect
+       x="288.56088"
+       y="19.941021"
+       width="38.198242"
+       height="5.4643044"
+       id="rect1172-2" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect961-4-7" />
+    <rect
+       x="208.94296"
+       y="76.20282"
+       width="80.178452"
+       height="14.396327"
+       id="rect1175-6" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,9 +438,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="251.1611"
-     inkscape:cy="730.02309"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="481.10019"
+     inkscape:cy="355.34701"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -34,17 +449,7 @@
      inkscape:window-height="1340"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="10.851,257.71139"
-       orientation="-1,0"
-       id="guide845"
-       inkscape:label=""
-       inkscape:locked="true"
-       inkscape:color="rgb(0,0,255)" />
-  </sodipodi:namedview>
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,7 +458,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,334 +468,372 @@
      id="layer1">
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.421429;stroke-linejoin:round;paint-order:markers fill stroke"
-       id="rect833"
-       width="63.078571"
-       height="88.478569"
-       x="135.73987"
-       y="13.296374" />
+       id="rect833-4-89"
+       width="88.478577"
+       height="63.078571"
+       x="-104.33865"
+       y="-74.078201"
+       transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-size:4.93889px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
-       x="141.57303"
-       y="33.94574"
-       id="text949"><tspan
-         sodipodi:role="line"
-         id="tspan847">@BackTop1@</tspan></text>
+       id="text941"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943);"
+       transform="translate(-188.38041,-9.4047508)"><tspan
+         x="208.92383"
+         y="35.171015"><tspan>@BackTop3@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.264583;"
-       x="141.66646"
-       y="20.317091"
-       id="text949-1"><tspan
-         sodipodi:role="line"
-         id="tspan2060">@Category1@</tspan></text>
+       id="text947"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949);fill:#808080;"
+       transform="translate(-188.47096,-4.6422506)"><tspan
+         x="209.03711"
+         y="22.258077"><tspan
+           style="font-size:3.52778px;fill:#808080">@Category1l@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;"
-       x="141.57344"
-       y="71.530281"
-       id="text949-0"><tspan
-         sodipodi:role="line"
-         id="tspan873">@BackBottom1@</tspan></text>
+       id="text953"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955);fill:#808080"
+       transform="translate(-226.73484,-5.4176454)"
+       x="32.248135"
+       y="0"><tspan
+         x="299.63996"
+         y="23.148702"><tspan
+           style="font-size:3.52778px;text-align:end;text-anchor:end;fill:#808080">@Category1r@</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text959"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961);"
+       transform="translate(-188.37721,-20.059526)"><tspan
+         x="208.94336"
+         y="79.410421"><tspan
+           style="shape-inside:url(#rect961)">@BackBottom3@</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.421429;stroke-linejoin:round;paint-order:markers fill stroke"
-       id="rect833-3"
-       width="63.078571"
-       height="88.478569"
-       x="72.661293"
-       y="13.296364" />
+       id="rect833-4-89-2"
+       width="88.478577"
+       height="63.078571"
+       x="-192.81715"
+       y="-74.078201"
+       transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;"
-       x="78.494453"
-       y="33.945724"
-       id="text949-9"><tspan
-         sodipodi:role="line"
-         id="tspan2062">@BackTop2@</tspan></text>
+       id="text941-1"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-3);"
+       transform="translate(-99.901833,-9.4047423)"><tspan
+         x="208.92383"
+         y="35.171015"><tspan>@BackTop2@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.264583"
-       x="78.587883"
-       y="20.317078"
-       id="text949-1-7"><tspan
-         sodipodi:role="line"
-         id="tspan947-8-9"
-         x="78.587883"
-         y="20.317078"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.264583">@Category2@</tspan></text>
+       id="text947-0"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-6);fill:#808080;"
+       transform="translate(-99.992383,-4.6422423)"><tspan
+         x="209.03711"
+         y="22.258077"><tspan
+           style="font-size:3.52778px;fill:#808080">@Category2l@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="78.494865"
-       y="71.530266"
-       id="text949-0-7"><tspan
-         sodipodi:role="line"
-         id="tspan873-3"
-         x="78.494865"
-         y="71.530266">@BackBottom2@</tspan></text>
+       id="text953-5"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-8);fill:#808080;"
+       transform="translate(-138.25626,-5.4176373)"
+       x="32.248135"
+       y="0"><tspan
+         x="299.63996"
+         y="23.148702"><tspan
+           style="font-size:3.52778px;text-align:end;text-anchor:end;fill:#808080">@Category2r@</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text959-1"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-0);"
+       transform="translate(-99.898633,-20.059518)"><tspan
+         x="208.94336"
+         y="79.410421"><tspan
+           style="shape-inside:url(#rect961-0)">@BackBottom2@</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.421429;stroke-linejoin:round;paint-order:markers fill stroke"
-       id="rect833-7"
-       width="63.078571"
-       height="88.478569"
-       x="9.5827179"
-       y="13.296364" />
+       id="rect833-4-89-25"
+       width="88.478577"
+       height="63.078571"
+       x="-281.2959"
+       y="-74.078201"
+       transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;"
-       x="15.415886"
-       y="33.945728"
-       id="text949-5"><tspan
-         sodipodi:role="line"
-         id="tspan2064">@BackTop3@</tspan></text>
+       id="text941-8"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-1);"
+       transform="translate(-11.423277,-9.4047545)"><tspan
+         x="208.92383"
+         y="35.171015"><tspan>@BackTop1@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.264583"
-       x="15.509315"
-       y="20.317078"
-       id="text949-1-8"><tspan
-         sodipodi:role="line"
-         id="tspan947-8-2"
-         x="15.509315"
-         y="20.317078"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.264583">@Category3@</tspan></text>
+       id="text947-6"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-8);fill:#808080;"
+       transform="translate(-11.513827,-4.6422545)"><tspan
+         x="209.03711"
+         y="22.258077"><tspan
+           style="font-size:3.52778px;fill:#808080">@Category1l@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="15.41629"
-       y="71.530266"
-       id="text949-0-73"><tspan
-         sodipodi:role="line"
-         id="tspan873-5"
-         x="15.41629"
-         y="71.530266">@BackBottom3@</tspan></text>
+       id="text953-2"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-0);fill:#808080;"
+       transform="translate(-49.777707,-5.4176495)"
+       x="32.248135"
+       y="0"><tspan
+         x="299.63996"
+         y="23.148702"><tspan
+           style="font-size:3.52778px;text-align:end;text-anchor:end;fill:#808080">@Category3r@</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text959-8"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-4);"
+       transform="translate(-11.420077,-20.05953)"><tspan
+         x="208.94336"
+         y="79.410421"><tspan
+           style="shape-inside:url(#rect961-4)">@BackBottom1@</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.421429;stroke-linejoin:round;paint-order:markers fill stroke"
-       id="rect833-0"
-       width="63.078571"
-       height="88.478569"
-       x="135.73987"
-       y="101.77495" />
+       id="rect833-4-89-1"
+       width="88.478577"
+       height="63.078571"
+       x="-104.33865"
+       y="-137.15678"
+       transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="141.57303"
-       y="122.42432"
-       id="text949-6"><tspan
-         sodipodi:role="line"
-         id="tspan847-5"
-         x="141.57303"
-         y="122.42432">@BackTop4@</tspan></text>
+       id="text941-10"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-4);"
+       transform="translate(-188.3804,53.673819)"><tspan
+         x="208.92383"
+         y="35.171015"><tspan>@BackTop6@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.264583"
-       x="141.66646"
-       y="108.79566"
-       id="text949-1-1"><tspan
-         sodipodi:role="line"
-         id="tspan947-8-94"
-         x="141.66646"
-         y="108.79566"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.264583">@Category4@</tspan></text>
+       id="text947-3"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-7);fill:#808080;"
+       transform="translate(-188.47095,58.436319)"><tspan
+         x="209.03711"
+         y="22.258077"><tspan
+           style="font-size:3.52778px;fill:#808080">@Category6l@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="141.57344"
-       y="160.00885"
-       id="text949-0-4"><tspan
-         sodipodi:role="line"
-         id="tspan873-6"
-         x="141.57344"
-         y="160.00885">@BackBottom4@</tspan></text>
+       id="text953-4"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-2);fill:#808080;"
+       transform="translate(-226.73483,57.660924)"
+       x="32.248135"
+       y="0"><tspan
+         x="299.63996"
+         y="23.148702"><tspan
+           style="font-size:3.52778px;text-align:end;text-anchor:end;fill:#808080">@Category6r@</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text959-0"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-40);"
+       transform="translate(-188.3772,43.019044)"><tspan
+         x="208.94336"
+         y="79.410421"><tspan
+           style="shape-inside:url(#rect961-40)">@BackBottom6@</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.421429;stroke-linejoin:round;paint-order:markers fill stroke"
-       id="rect833-3-8"
-       width="63.078571"
-       height="88.478569"
-       x="72.661293"
-       y="101.77494" />
+       id="rect833-4-89-2-3"
+       width="88.478577"
+       height="63.078571"
+       x="-192.81717"
+       y="-137.15678"
+       transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="78.494453"
-       y="122.4243"
-       id="text949-9-1"><tspan
-         sodipodi:role="line"
-         id="tspan847-9-0"
-         x="78.494453"
-         y="122.4243">@BackTop5@</tspan></text>
+       id="text941-1-9"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-3-6);"
+       transform="translate(-99.901823,53.673827)"><tspan
+         x="208.92383"
+         y="35.171015"><tspan>@BackTop5@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.264583"
-       x="78.587883"
-       y="108.79565"
-       id="text949-1-7-8"><tspan
-         sodipodi:role="line"
-         id="tspan947-8-9-1"
-         x="78.587883"
-         y="108.79565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.264583">@Category5@</tspan></text>
+       id="text947-0-1"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-6-2);fill:#808080;"
+       transform="translate(-99.992373,58.436327)"><tspan
+         x="209.03711"
+         y="22.258077"><tspan
+           style="font-size:3.52778px;fill:#808080">@Category5l@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="78.494865"
-       y="160.00885"
-       id="text949-0-7-2"><tspan
-         sodipodi:role="line"
-         id="tspan873-3-9"
-         x="78.494865"
-         y="160.00885">@BackBottom5@</tspan></text>
+       id="text953-5-9"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-8-9);fill:#808080;"
+       transform="translate(-138.25625,57.660932)"
+       x="32.248135"
+       y="0"><tspan
+         x="299.63996"
+         y="23.148702"><tspan
+           style="font-size:3.52778px;text-align:end;text-anchor:end;fill:#808080">@Category5r@</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text959-1-6"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-0-9);"
+       transform="translate(-99.898623,43.019052)"><tspan
+         x="208.94336"
+         y="79.410421"><tspan
+           style="shape-inside:url(#rect961-0-9)">@BackBottom5@</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.421429;stroke-linejoin:round;paint-order:markers fill stroke"
-       id="rect833-7-8"
-       width="63.078571"
-       height="88.478569"
-       x="9.5827188"
-       y="101.77494" />
+       id="rect833-4-89-25-9"
+       width="88.478577"
+       height="63.078571"
+       x="-281.2959"
+       y="-137.15678"
+       transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="15.415887"
-       y="122.4243"
-       id="text949-5-8"><tspan
-         sodipodi:role="line"
-         id="tspan847-3-6"
-         x="15.415887"
-         y="122.4243">@BackTop6@</tspan></text>
+       id="text941-8-3"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-1-0);"
+       transform="translate(-11.42326,53.673815)"><tspan
+         x="208.92383"
+         y="35.171015"><tspan>@BackTop4@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.264583"
-       x="15.509315"
-       y="108.79565"
-       id="text949-1-8-8"><tspan
-         sodipodi:role="line"
-         id="tspan947-8-2-2"
-         x="15.509315"
-         y="108.79565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.264583">@Category6@</tspan></text>
+       id="text947-6-3"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-8-8);fill:#808080;"
+       transform="translate(-11.51381,58.436315)"><tspan
+         x="209.03711"
+         y="22.258077"><tspan
+           style="font-size:3.52778px;fill:#808080">@Category4l@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="15.416291"
-       y="160.00885"
-       id="text949-0-73-0"><tspan
-         sodipodi:role="line"
-         id="tspan873-5-2"
-         x="15.416291"
-         y="160.00885">@BackBottom6@</tspan></text>
+       id="text953-2-8"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-0-1);fill:#808080;"
+       transform="translate(-49.777694,57.66092)"
+       x="32.248135"
+       y="0"><tspan
+         x="299.63996"
+         y="23.148702"><tspan
+           style="font-size:3.52778px;text-align:end;text-anchor:end;fill:#808080">@Category4r@</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text959-8-0"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-4-3);"
+       transform="translate(-11.42006,43.01904)"><tspan
+         x="208.94336"
+         y="79.410421"><tspan
+           style="shape-inside:url(#rect961-4-3)">@BackBottom4@</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.421429;stroke-linejoin:round;paint-order:markers fill stroke"
-       id="rect833-5"
-       width="63.078571"
-       height="88.478569"
-       x="135.73987"
-       y="190.25351" />
+       id="rect833-4-89-13"
+       width="88.478577"
+       height="63.078571"
+       x="-104.33865"
+       y="-200.23535"
+       transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="141.57303"
-       y="210.90288"
-       id="text949-7"><tspan
-         sodipodi:role="line"
-         id="tspan847-4"
-         x="141.57303"
-         y="210.90288">@BackTop7@</tspan></text>
+       id="text941-2"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-5);"
+       transform="translate(-188.38038,116.75237)"><tspan
+         x="208.92383"
+         y="35.171015"><tspan>@BackTop7@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.264583"
-       x="141.66646"
-       y="197.27423"
-       id="text949-1-2"><tspan
-         sodipodi:role="line"
-         id="tspan947-8-4"
-         x="141.66646"
-         y="197.27423"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.264583">@Category7@</tspan></text>
+       id="text947-1"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-64);fill:#808080;"
+       transform="translate(-188.47093,121.51487)"><tspan
+         x="209.03711"
+         y="22.258077"><tspan
+           style="font-size:3.52778px;fill:#808080">@Category7l@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="141.57344"
-       y="248.48741"
-       id="text949-0-0"><tspan
-         sodipodi:role="line"
-         id="tspan873-2"
-         x="141.57344"
-         y="248.48741">@BackBottom7@</tspan></text>
+       id="text953-59"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-04);fill:#808080;"
+       transform="translate(-226.73481,120.73948)"
+       x="32.248135"
+       y="0"><tspan
+         x="299.63996"
+         y="23.148702"><tspan
+           style="font-size:3.52778px;text-align:end;text-anchor:end;fill:#808080">@Category7r@</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text959-9"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-2);"
+       transform="translate(-188.37718,106.0976)"><tspan
+         x="208.94336"
+         y="79.410421"><tspan
+           style="shape-inside:url(#rect961-2)">@BackBottom7@</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.421429;stroke-linejoin:round;paint-order:markers fill stroke"
-       id="rect833-3-7"
-       width="63.078571"
-       height="88.478569"
-       x="72.661293"
-       y="190.25349" />
+       id="rect833-4-89-2-1"
+       width="88.478577"
+       height="63.078571"
+       x="-192.81717"
+       y="-200.23535"
+       transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="78.494453"
-       y="210.90286"
-       id="text949-9-2"><tspan
-         sodipodi:role="line"
-         id="tspan847-9-01"
-         x="78.494453"
-         y="210.90286">@BackTop8@</tspan></text>
+       id="text941-1-4"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-3-7);"
+       transform="translate(-99.901803,116.75238)"><tspan
+         x="208.92383"
+         y="35.171015"><tspan>@BackTop8@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.264583"
-       x="78.587883"
-       y="197.27422"
-       id="text949-1-7-6"><tspan
-         sodipodi:role="line"
-         id="tspan947-8-9-19"
-         x="78.587883"
-         y="197.27422"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.264583">@Category8@</tspan></text>
+       id="text947-0-9"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-6-6);fill:#808080;"
+       transform="translate(-99.992353,121.51488)"><tspan
+         x="209.03711"
+         y="22.258077"><tspan
+           style="font-size:3.52778px;fill:#808080">@Category8l@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="78.494865"
-       y="248.4874"
-       id="text949-0-7-4"><tspan
-         sodipodi:role="line"
-         id="tspan873-3-99"
-         x="78.494865"
-         y="248.4874">@BackBottom8@</tspan></text>
+       id="text953-5-1"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-8-8);fill:#808080;"
+       transform="translate(-138.25623,120.73949)"
+       x="32.248135"
+       y="0"><tspan
+         x="299.63996"
+         y="23.148702"><tspan
+           style="font-size:3.52778px;text-align:end;text-anchor:end;fill:#808080">@Category8r@</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text959-1-0"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-0-2);"
+       transform="translate(-99.898603,106.09761)"><tspan
+         x="208.94336"
+         y="79.410421"><tspan
+           style="shape-inside:url(#rect961-0-2)">@BackBottom8@</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.421429;stroke-linejoin:round;paint-order:markers fill stroke"
-       id="rect833-7-6"
-       width="63.078571"
-       height="88.478569"
-       x="9.5827179"
-       y="190.25349" />
+       id="rect833-4-89-25-7"
+       width="88.478577"
+       height="63.078571"
+       x="-281.2959"
+       y="-200.23535"
+       transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="15.415886"
-       y="210.90286"
-       id="text949-5-9"><tspan
-         sodipodi:role="line"
-         id="tspan847-3-4"
-         x="15.415886"
-         y="210.90286">@BackTop9@</tspan></text>
+       id="text941-8-5"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-1-2);"
+       transform="translate(-11.423248,116.75237)"><tspan
+         x="208.92383"
+         y="35.171015"><tspan>@BackTop9@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;stroke-width:0.264583"
-       x="15.509312"
-       y="197.27422"
-       id="text949-1-8-2"><tspan
-         sodipodi:role="line"
-         id="tspan947-8-2-0"
-         x="15.509312"
-         y="197.27422"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d4d4d;stroke-width:0.264583">@Category9@</tspan></text>
+       id="text947-6-8"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-8-9);fill:#808080;"
+       transform="translate(-11.513798,121.51487)"><tspan
+         x="209.03711"
+         y="22.258077"><tspan
+           style="font-size:3.52778px;fill:#808080">@Category9l@</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="15.41629"
-       y="248.4874"
-       id="text949-0-73-2"><tspan
-         sodipodi:role="line"
-         id="tspan873-5-3"
-         x="15.41629"
-         y="248.4874">@BackBottom9@</tspan></text>
+       id="text953-2-7"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-0-0);fill:#808080;"
+       transform="translate(-49.777678,120.73947)"
+       x="32.248135"
+       y="0"><tspan
+         x="299.63996"
+         y="23.148702"><tspan
+           style="font-size:3.52778px;text-align:end;text-anchor:end;fill:#808080">@Category9r@</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text959-8-04"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-4-7);"
+       transform="translate(-11.420048,106.09759)"><tspan
+         x="208.94336"
+         y="79.410421"><tspan
+           style="shape-inside:url(#rect961-4-7)">@BackBottom9@</tspan></tspan></text>
   </g>
 </svg>
