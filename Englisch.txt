@@ -31,7 +31,9 @@ time = 1. Zeit; Uhrzeit, 2. Mal
 ==
 my own film/room/...
 --
-mein eigener Film / mein eigenes Zimmer / ...
+mein eigener Film
+mein eigenes Zimmer
+...
 --
 Do you have your own room?
 ==
@@ -353,6 +355,7 @@ alles
 everything <> nothing
 ==
 (to) pause
+--
 innehalten, pausieren; eine Pause einlegen
 --
 She paused a moment before she answered my question.
@@ -459,6 +462,8 @@ Ryan didn’t want to dance, so I danced on my own.
 The cake looks great. Did you make it on your own?
 ==
 talented
+--
+talentiert
 ==
 (to) cheer
 --
