@@ -12,7 +12,7 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg8"
-   sodipodi:docname="Karten-Front2.svg"
+   sodipodi:docname="Karten-Back.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <defs
      id="defs2">
@@ -458,7 +458,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -471,29 +471,29 @@
        id="rect833-4-89"
        width="88.478577"
        height="63.078571"
-       x="-104.33865"
-       y="-74.078201"
+       x="-101.16364"
+       y="-74.607368"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
        id="text941"
        style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943);"
-       transform="translate(-188.38041,-9.4047508)"><tspan
+       transform="translate(-191.55543,-8.8755841)"><tspan
          x="208.92383"
          y="35.171015"><tspan>@BackTop3@</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text947"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949);fill:#808080;"
-       transform="translate(-188.47096,-4.6422506)"><tspan
+       transform="translate(-191.64598,-4.1130839)"><tspan
          x="209.03711"
          y="22.258077"><tspan
            style="font-size:3.52778px;fill:#808080">@Category1l@</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text953"
-       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955);fill:#808080"
-       transform="translate(-226.73484,-5.4176454)"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955);fill:#808080;"
+       transform="translate(-229.90986,-4.8884787)"
        x="32.248135"
        y="0"><tspan
          x="299.63996"
@@ -503,7 +503,7 @@
        xml:space="preserve"
        id="text959"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961);"
-       transform="translate(-188.37721,-20.059526)"><tspan
+       transform="translate(-191.55223,-19.530359)"><tspan
          x="208.94336"
          y="79.410421"><tspan
            style="shape-inside:url(#rect961)">@BackBottom3@</tspan></tspan></text>
@@ -512,21 +512,21 @@
        id="rect833-4-89-2"
        width="88.478577"
        height="63.078571"
-       x="-192.81715"
-       y="-74.078201"
+       x="-189.6422"
+       y="-74.607368"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
        id="text941-1"
        style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-3);"
-       transform="translate(-99.901833,-9.4047423)"><tspan
+       transform="translate(-103.07685,-8.8755756)"><tspan
          x="208.92383"
          y="35.171015"><tspan>@BackTop2@</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text947-0"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-6);fill:#808080;"
-       transform="translate(-99.992383,-4.6422423)"><tspan
+       transform="translate(-103.1674,-4.1130756)"><tspan
          x="209.03711"
          y="22.258077"><tspan
            style="font-size:3.52778px;fill:#808080">@Category2l@</tspan></tspan></text>
@@ -534,7 +534,7 @@
        xml:space="preserve"
        id="text953-5"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-8);fill:#808080;"
-       transform="translate(-138.25626,-5.4176373)"
+       transform="translate(-141.43128,-4.8884706)"
        x="32.248135"
        y="0"><tspan
          x="299.63996"
@@ -544,7 +544,7 @@
        xml:space="preserve"
        id="text959-1"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-0);"
-       transform="translate(-99.898633,-20.059518)"><tspan
+       transform="translate(-103.07365,-19.530351)"><tspan
          x="208.94336"
          y="79.410421"><tspan
            style="shape-inside:url(#rect961-0)">@BackBottom2@</tspan></tspan></text>
@@ -553,21 +553,21 @@
        id="rect833-4-89-25"
        width="88.478577"
        height="63.078571"
-       x="-281.2959"
-       y="-74.078201"
+       x="-278.12085"
+       y="-74.607368"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
        id="text941-8"
        style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-1);"
-       transform="translate(-11.423277,-9.4047545)"><tspan
+       transform="translate(-14.598279,-8.8755878)"><tspan
          x="208.92383"
          y="35.171015"><tspan>@BackTop1@</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text947-6"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-8);fill:#808080;"
-       transform="translate(-11.513827,-4.6422545)"><tspan
+       transform="translate(-14.688829,-4.1130878)"><tspan
          x="209.03711"
          y="22.258077"><tspan
            style="font-size:3.52778px;fill:#808080">@Category1l@</tspan></tspan></text>
@@ -575,7 +575,7 @@
        xml:space="preserve"
        id="text953-2"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-0);fill:#808080;"
-       transform="translate(-49.777707,-5.4176495)"
+       transform="translate(-52.952709,-4.8884828)"
        x="32.248135"
        y="0"><tspan
          x="299.63996"
@@ -585,7 +585,7 @@
        xml:space="preserve"
        id="text959-8"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-4);"
-       transform="translate(-11.420077,-20.05953)"><tspan
+       transform="translate(-14.595079,-19.530363)"><tspan
          x="208.94336"
          y="79.410421"><tspan
            style="shape-inside:url(#rect961-4)">@BackBottom1@</tspan></tspan></text>
@@ -594,21 +594,21 @@
        id="rect833-4-89-1"
        width="88.478577"
        height="63.078571"
-       x="-104.33865"
-       y="-137.15678"
+       x="-101.16364"
+       y="-137.68594"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
        id="text941-10"
        style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-4);"
-       transform="translate(-188.3804,53.673819)"><tspan
+       transform="translate(-191.55542,54.202986)"><tspan
          x="208.92383"
          y="35.171015"><tspan>@BackTop6@</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text947-3"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-7);fill:#808080;"
-       transform="translate(-188.47095,58.436319)"><tspan
+       transform="translate(-191.64597,58.965486)"><tspan
          x="209.03711"
          y="22.258077"><tspan
            style="font-size:3.52778px;fill:#808080">@Category6l@</tspan></tspan></text>
@@ -616,7 +616,7 @@
        xml:space="preserve"
        id="text953-4"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-2);fill:#808080;"
-       transform="translate(-226.73483,57.660924)"
+       transform="translate(-229.90985,58.190091)"
        x="32.248135"
        y="0"><tspan
          x="299.63996"
@@ -626,7 +626,7 @@
        xml:space="preserve"
        id="text959-0"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-40);"
-       transform="translate(-188.3772,43.019044)"><tspan
+       transform="translate(-191.55222,43.548211)"><tspan
          x="208.94336"
          y="79.410421"><tspan
            style="shape-inside:url(#rect961-40)">@BackBottom6@</tspan></tspan></text>
@@ -635,21 +635,21 @@
        id="rect833-4-89-2-3"
        width="88.478577"
        height="63.078571"
-       x="-192.81717"
-       y="-137.15678"
+       x="-189.64221"
+       y="-137.68594"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
        id="text941-1-9"
        style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-3-6);"
-       transform="translate(-99.901823,53.673827)"><tspan
+       transform="translate(-103.07684,54.202994)"><tspan
          x="208.92383"
          y="35.171015"><tspan>@BackTop5@</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text947-0-1"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-6-2);fill:#808080;"
-       transform="translate(-99.992373,58.436327)"><tspan
+       transform="translate(-103.16739,58.965494)"><tspan
          x="209.03711"
          y="22.258077"><tspan
            style="font-size:3.52778px;fill:#808080">@Category5l@</tspan></tspan></text>
@@ -657,7 +657,7 @@
        xml:space="preserve"
        id="text953-5-9"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-8-9);fill:#808080;"
-       transform="translate(-138.25625,57.660932)"
+       transform="translate(-141.43127,58.190099)"
        x="32.248135"
        y="0"><tspan
          x="299.63996"
@@ -667,7 +667,7 @@
        xml:space="preserve"
        id="text959-1-6"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-0-9);"
-       transform="translate(-99.898623,43.019052)"><tspan
+       transform="translate(-103.07364,43.548219)"><tspan
          x="208.94336"
          y="79.410421"><tspan
            style="shape-inside:url(#rect961-0-9)">@BackBottom5@</tspan></tspan></text>
@@ -676,21 +676,21 @@
        id="rect833-4-89-25-9"
        width="88.478577"
        height="63.078571"
-       x="-281.2959"
-       y="-137.15678"
+       x="-278.12085"
+       y="-137.68594"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
        id="text941-8-3"
        style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-1-0);"
-       transform="translate(-11.42326,53.673815)"><tspan
+       transform="translate(-14.598262,54.202982)"><tspan
          x="208.92383"
          y="35.171015"><tspan>@BackTop4@</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text947-6-3"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-8-8);fill:#808080;"
-       transform="translate(-11.51381,58.436315)"><tspan
+       transform="translate(-14.688812,58.965482)"><tspan
          x="209.03711"
          y="22.258077"><tspan
            style="font-size:3.52778px;fill:#808080">@Category4l@</tspan></tspan></text>
@@ -698,7 +698,7 @@
        xml:space="preserve"
        id="text953-2-8"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-0-1);fill:#808080;"
-       transform="translate(-49.777694,57.66092)"
+       transform="translate(-52.952696,58.190087)"
        x="32.248135"
        y="0"><tspan
          x="299.63996"
@@ -708,7 +708,7 @@
        xml:space="preserve"
        id="text959-8-0"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-4-3);"
-       transform="translate(-11.42006,43.01904)"><tspan
+       transform="translate(-14.595062,43.548207)"><tspan
          x="208.94336"
          y="79.410421"><tspan
            style="shape-inside:url(#rect961-4-3)">@BackBottom4@</tspan></tspan></text>
@@ -717,21 +717,21 @@
        id="rect833-4-89-13"
        width="88.478577"
        height="63.078571"
-       x="-104.33865"
-       y="-200.23535"
+       x="-101.16364"
+       y="-200.76451"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
        id="text941-2"
        style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-5);"
-       transform="translate(-188.38038,116.75237)"><tspan
+       transform="translate(-191.5554,117.28154)"><tspan
          x="208.92383"
          y="35.171015"><tspan>@BackTop7@</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text947-1"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-64);fill:#808080;"
-       transform="translate(-188.47093,121.51487)"><tspan
+       transform="translate(-191.64595,122.04404)"><tspan
          x="209.03711"
          y="22.258077"><tspan
            style="font-size:3.52778px;fill:#808080">@Category7l@</tspan></tspan></text>
@@ -739,7 +739,7 @@
        xml:space="preserve"
        id="text953-59"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-04);fill:#808080;"
-       transform="translate(-226.73481,120.73948)"
+       transform="translate(-229.90983,121.26865)"
        x="32.248135"
        y="0"><tspan
          x="299.63996"
@@ -749,7 +749,7 @@
        xml:space="preserve"
        id="text959-9"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-2);"
-       transform="translate(-188.37718,106.0976)"><tspan
+       transform="translate(-191.5522,106.62677)"><tspan
          x="208.94336"
          y="79.410421"><tspan
            style="shape-inside:url(#rect961-2)">@BackBottom7@</tspan></tspan></text>
@@ -758,21 +758,21 @@
        id="rect833-4-89-2-1"
        width="88.478577"
        height="63.078571"
-       x="-192.81717"
-       y="-200.23535"
+       x="-189.64221"
+       y="-200.76451"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
        id="text941-1-4"
        style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-3-7);"
-       transform="translate(-99.901803,116.75238)"><tspan
+       transform="translate(-103.07682,117.28155)"><tspan
          x="208.92383"
          y="35.171015"><tspan>@BackTop8@</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text947-0-9"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-6-6);fill:#808080;"
-       transform="translate(-99.992353,121.51488)"><tspan
+       transform="translate(-103.16737,122.04405)"><tspan
          x="209.03711"
          y="22.258077"><tspan
            style="font-size:3.52778px;fill:#808080">@Category8l@</tspan></tspan></text>
@@ -780,7 +780,7 @@
        xml:space="preserve"
        id="text953-5-1"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-8-8);fill:#808080;"
-       transform="translate(-138.25623,120.73949)"
+       transform="translate(-141.43125,121.26866)"
        x="32.248135"
        y="0"><tspan
          x="299.63996"
@@ -790,7 +790,7 @@
        xml:space="preserve"
        id="text959-1-0"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-0-2);"
-       transform="translate(-99.898603,106.09761)"><tspan
+       transform="translate(-103.07362,106.62678)"><tspan
          x="208.94336"
          y="79.410421"><tspan
            style="shape-inside:url(#rect961-0-2)">@BackBottom8@</tspan></tspan></text>
@@ -799,21 +799,21 @@
        id="rect833-4-89-25-7"
        width="88.478577"
        height="63.078571"
-       x="-281.2959"
-       y="-200.23535"
+       x="-278.12085"
+       y="-200.76451"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
        id="text941-8-5"
        style="font-size:4.23333px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect943-1-2);"
-       transform="translate(-11.423248,116.75237)"><tspan
+       transform="translate(-14.59825,117.28154)"><tspan
          x="208.92383"
          y="35.171015"><tspan>@BackTop9@</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text947-6-8"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect949-8-9);fill:#808080;"
-       transform="translate(-11.513798,121.51487)"><tspan
+       transform="translate(-14.6888,122.04404)"><tspan
          x="209.03711"
          y="22.258077"><tspan
            style="font-size:3.52778px;fill:#808080">@Category9l@</tspan></tspan></text>
@@ -821,7 +821,7 @@
        xml:space="preserve"
        id="text953-2-7"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect955-0-0);fill:#808080;"
-       transform="translate(-49.777678,120.73947)"
+       transform="translate(-52.95268,121.26864)"
        x="32.248135"
        y="0"><tspan
          x="299.63996"
@@ -831,7 +831,7 @@
        xml:space="preserve"
        id="text959-8-04"
        style="font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Mono';-inkscape-font-specification:'Linux Libertine Mono, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961-4-7);"
-       transform="translate(-11.420048,106.09759)"><tspan
+       transform="translate(-14.59505,106.62676)"><tspan
          x="208.94336"
          y="79.410421"><tspan
            style="shape-inside:url(#rect961-4-7)">@BackBottom9@</tspan></tspan></text>
