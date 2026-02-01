@@ -1,0 +1,543 @@
+# Unit 1
+## In the holidays
+stop
+--
+Halt
+Station, Haltestelle
+==
+camping
+--
+Camping, Zelten
+==
+world
+--
+Welt
+==
+sunny
+--
+sonnig
+==
+mountain
+--
+Berg
+==
+beautiful
+--
+schön
+==
+alone
+--
+allein
+==
+Say hello to ... for me.
+--
+Grüß ... von mir.
+==
+wave
+--
+Welle
+==
+weather
+--
+Wetter
+==
+cloudy
+--
+bewölkt
+==
+cloud
+--
+Wolke
+==
+caravan
+--
+Wohnwagen
+==
+fun park
+--
+Vergnügunspark
+==
+windy
+--
+windig
+==
+wind
+--
+Wind
+==
+project
+--
+Projekt
+==
+I can't wait to see ...
+--
+Ich kann es kaum erwarten, ... zu sehen
+==
+rainforest
+--
+Regenwald
+==
+forest
+--
+Wald
+==
+rain
+--
+Regen
+==
+(to) rain
+--
+regnen
+==
+plant
+--
+Pflanze
+==
+message
+--
+Nachricht
+==
+## Part A
+phone call
+(kurz auch: call)
+--
+Anruf; Telefongespräch
+==
+(to) phone sb.
+--
+jn. anrufen
+==
+(to) answer the phone
+--
+ans Telefon gehen
+==
+(to) be in
+--
+zu Hause sein
+==
+(to) be out
+--
+nicht zu Hause sein
+nicht da sein
+==
+(to) leave a message
+(simple past: left)
+--
+eine Nachricht hinterlassen
+==
+holiday
+--
+Urlaub
+==
+What was it like?
+--
+Wie war es?
+==
+at first
+--
+zuerst, anfangs, am Anfang
+==
+race
+--
+Rennen
+==
+two days ago
+--
+vor zwei Tagen
+==
+country
+--
+Land (Staat)
+==
+building
+--
+Gebäude
+==
+tomorrow
+--
+morgen
+==
+(to) bring
+(simple past: brought)
+--
+(mit-, her)bringen
+==
+if
+--
+wenn, falls
+==
+revision
+--
+Wiederholung (des Lernstoffs)
+==
+Hold on a minute.
+(oft auch kurz: Hold on.)
+--
+Bleib/Bleiben Sie am Apparat.
+(am Telefon)
+==
+(to) make notes (on sth.)
+--
+(sich) Notizen machen (über/zu etwas)
+==
+crib sheet
+--
+Spickzettel, Merkzettel
+==
+## Part B
+neighbour
+--
+Nachbar
+==
+tea
+--
+leichte Nachmittags- oder Abendmahlzeit
+Tee
+==
+Love, ...
+--
+Alles Liebe, ...
+Liebe Grüße, ...
+(Briefschluss)
+==
+Who did you tell?
+--
+Wem hast du es erzählt?
+==
+Who does Sam know?
+--
+Wen kennt Sam?
+==
+for example
+--
+zum Beispiel
+==
+surprise
+--
+Überraschung
+==
+still
+--
+trotzdem, dennoch
+==
+this afternoon/evening/...
+--
+heute Nachmittag/Abend/...
+==
+(to) move (to)
+--
+umziehen (nach)
+==
+son
+--
+Sohn
+==
+daughter
+--
+Tochter
+==
+already
+--
+schon, bereits
+==
+sure
+--
+sicher
+==
+(to) invite sb. (to)
+--
+jn. einladen (zu)
+==
+ever
+--
+jemals
+==
+Lucky you.
+--
+Du Glückpilz.
+==
+(to) be lucky
+--
+Glück haben
+==
+(to) look after sb.
+--
+auf jn. aufassen
+sich um jn. kümmern
+==
+(to) be allowed to do sth.
+--
+etwas tun dürfen
+==
+(to) hit
+(simple past: hit)
+--
+schlagen
+==
+(to) roll
+--
+rollen
+==
+out
+--
+heraus, hinaus, nach draußen
+==
+prize
+--
+Preis, Gewinn
+==
+Here you are.
+--
+Bitte sehr. / Hier bitte.
+==
+..., right?
+--
+..., nicht wahr?
+==
+(to) mean
+(simple past: meant)
+--
+bedeuten
+==
+subject
+--
+Subjekt
+==
+object
+--
+Objekt
+==
+(to) get in touch (with sb.)
+(mit jm.) Kontakt aufnehmen
+--
+sich (mit jm. in Verbindung bleiben
+==
+text message
+(kurz auch: text)
+--
+SMS, Textnachricht
+==
+free
+--
+kostenlos
+==
+rule
+--
+Regel, Vorschrift
+==
+host family
+--
+Gastfamilie
+==
+meaning
+--
+Bedeutung
+==
+context
+--
+(Text-, Satz-)Zusammenhang
+Kontext
+==
+must
+--
+müssen
+==
+similar (to sth./sb.)
+--
+(etwas/jm.) ähnlich
+==
+## Part C
+(to) walk/run/fail/... on
+--
+weitergehen/-laufen/-segeln
+==
+just like ...
+--
+genau wie ...
+==
+(to) be/feel bored
+--
+gelangweilt sein, sich langweilen
+==
+term
+--
+Trimester
+==
+boarding school
+--
+Internat
+==
+shocked
+--
+schockiert, entsetzt
+==
+outdoor
+--
+Außen-, im Freien
+==
+(to) climb
+--
+klettern
+hinaufklettern (auf)
+==
+(to) look forward to sth.
+--
+sich auf etwas freuen
+==
+tear
+--
+Träne
+==
+unhappy
+--
+unglücklich
+==
+future
+--
+Zukunft
+zukünftige(r,s)
+==
+jacket
+--
+Jacke, Jackett
+==
+pocket
+--
+Tasche (Manteltasche, Hosentasche)
+==
+litter bin
+--
+Abfalleimer
+==
+## My USA logbook
+apartment
+--
+Wohnung
+==
+screen
+--
+Bildschirm
+==
+fries (pl)
+--
+(American English)
+Pommes frites
+==
+(to) wash the dishes (pl)
+--
+das Geschirr abwaschen, spülen
+==
+to
+--
+um zu
+==
+(to) land
+--
+landen; an Land gehen
+==
+land
+--
+Land
+==
+right now
+--
+jetzt gerade
+==
+(to) order
+--
+bestellen
+==
+pancake
+--
+Pfannkuchen, Eierkuchen
+==
+outside Rosie's Diner
+--
+vor Rosies Diner
+außerhalb von Rosies Diner
+==
+campsite
+--
+Zeltplatz
+==
+next to
+--
+neben
+==
+tent
+--
+Zelt
+==
+rocky
+--
+felsig, steinig
+==
+shadow
+--
+Schatten
+==
+fire
+--
+Feuer
+==
+(to) look up
+--
+hochsehen, aufschauen
+==
+sky
+--
+Himmel
+==
+(to) be asleep
+--
+schlafen
+==
+torch
+--
+Taschenlampe
+==
+so that ...
+(oft auch kurz: so ...):
+--
+sodass, damit
+--
+Dad gave me some money so (that) I could go to the cinema.
+==
+wild
+--
+wild
+==
+again and again
+--
+immer wieder
+==
+(to) turn sth, off
+--
+etwas ausschalten
+--
+(to) turn sth. on <> (to) turn sth. off
+==
+(to) give sb., a hug
+--
+jn. umarmen
+==
+this time
+-- 
+dieses Mal
+--
+time = 1. Zeit; Uhrzeit, 2. Mal
+==
+my own film/room/...
+--
+mein eigener Film
+mein eigenes Zimmer
+...
+--
+Do you have your own room?
+==
+memory
+--
+Erinnerung
+--
+My dad lived in Berlin twenty years ago. He says he has very nice memories of the city.
+==
