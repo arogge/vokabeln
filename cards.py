@@ -3,6 +3,7 @@
 from subprocess import run
 from xml.sax.saxutils import escape as xml_escape
 from os import unlink
+from sys import argv
 
 class Card:
     def __init__(self, cat):
@@ -30,10 +31,17 @@ def add_card(d, c):
     if c.has_data():
         d.append(c)
 
+def slicer(lst, length):
+    if len(lst) < length:
+        return lst
+    for n in range(0, len(lst), length):
+        yield lst[n:n+length]
+    return lst[n:]
+
 deck = []
 category = ["", ""]
 linebuffer = []
-with open("Englisch.txt", "r", encoding="utf-8") as fp:
+with open(argv[1], "r", encoding="utf-8") as fp:
 
     card = Card(category)
     for raw_line in fp.readlines():
@@ -61,13 +69,6 @@ with open("Englisch.txt", "r", encoding="utf-8") as fp:
             linebuffer = []
         else:
             linebuffer.append(line)
-
-def slicer(lst, length):
-    if len(lst) < length:
-        return lst
-    for n in range(0, len(lst), length):
-        yield lst[n:n+length]
-    return lst[n:]
 
 with open('Karten-Front.svg', 'r', encoding="utf-8") as file:
     front_svg_tmpl = file.read()
@@ -114,11 +115,3 @@ for pdf in pdfs:
     unlink(pdf)
 for svg in svgs:
     unlink(svg)
-
-exit(5)
-
-for card in deck[:9]:
-    print("-----")
-    print(" -- ".join(card.category))
-    print(card.eng)
-    print(card.deu)
