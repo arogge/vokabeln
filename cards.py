@@ -27,7 +27,7 @@ class Card:
         elif not self.example:
             self.example = data
         else:
-            raise ValueError("Too many data sections!")
+            raise ValueError(f"Too many data sections for '{self.eng}'!")
 
     def has_data(self):
         """Was any data added yet?"""
