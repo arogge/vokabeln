@@ -1,0 +1,782 @@
+# Unit 4 - On Dartmoor
+--
+background
+--
+Hintergrund
+--
+There are two boys in the foreground. 
+In the background you can see a lake.
+==
+foreground
+--
+Vordergrund
+--
+There are two boys in the foreground. 
+In the background you can see a lake.
+==
+at the bottom (of)
+--
+unten, am unteren Ende (von)
+--
+Now so the exercises at the bottom of the page.
+at the to (of) < > at the bottom (of)
+==
+(to) begin 
+--
+beginnen, anfangen
+--
+(to) begin vs. (to) start
+simple past: began
+==
+field
+--
+Feld, Acker, Weide
+--
+in the field < > auf dem Feld
+==
+footprint
+--
+Fußabdruck
+==
+foot
+--
+Fuß
+--
+pl.: feet
+==
+grass
+--
+Gras; Rasen
+==
+mist
+--
+(leichter) Nebel, Dunst(schleier)
+==
+pony
+--
+Pony
+--
+Aussprache beachten!
+==
+valley
+--
+Tal
+==
+cow
+--
+Kuh
+--
+cow < > goat < > sheep
+==
+goat
+--
+Ziege
+--
+cow < > goat < > sheep
+==
+sheep
+--
+Schaf
+--
+pl.: sheep
+cow < > goat < > sheep
+==
+etc. (et cetera)
+--
+usw. (und so weiter)
+--
+We need a lot of things for the sandwiches: bread, cheese, tomatoes, etc.
+==
+poem
+--
+gedicht
+==
+## Part A
+--
+twice
+--
+zweimal
+==
+once
+--
+einmal
+--
+once (1x) -> twice (2x) -> three times (3x)
+==
+not ... anybody / anyone
+--
+niemand
+--
+I think there's somebody in the garden.
+It's too dark. I can't see anybody.
+==
+over there
+--
+da drüben, dort drüben
+==
+told
+--
+(jmd.) erzählt haben
+--
+Die dritte Form des Verbs nennt man Partizip Perfekt. 
+(Englisch: past particle)
+==
+just
+--
+gerade (eben), soeben
+--
+I'm new in Hamburg. I've just moved here.
+==
+(to) be
+--
+sein
+--
+[was / were | been]
+==
+(to) break
+--
+(zer-)brechen; kaputt machen / gehen
+--
+[broke | broken]
+==
+(to) come
+--
+kommen
+--
+[came | come]
+==
+(to) do
+--
+machen, tun
+--
+[did | done]
+==
+(to) eat 
+--
+essen
+--
+[ate | eaten]
+==
+(to) fall
+--
+(hin-)fallen, stürzen
+--
+[fell | fallen]
+==
+(to) go
+--
+gehen; fahren
+--
+[went | gone]
+==
+(to) have
+--
+haben
+--
+[had | had]
+==
+(to) hide
+--
+(sich) verstecken
+--
+[hid | hidden] 
+==
+(to) see
+--
+sehen
+--
+[saw | seen]
+==
+not ... anything
+--
+nichts
+--
+You should eat something.
+I'm too nervous. I can't eat anything right now. 
+==
+(to) own
+--
+besitzen
+--
+! She owns her own house.
+==
+moor
+--
+Hochmoor
+==
+once / twice a week / year
+--
+einmal / zweimal pro Woche / Jahr
+--
+We love Indian food. We have it abouttwice a month.
+==
+that way
+--
+dort entlang; in die Richtug
+--
+We hav to go this way, not that way.
+==
+mud
+--
+Schlamm, Matsch
+==
+(to) leave (sth.)
+--
+etwas übrig lassen
+--
+[left | left]
+Don't eat all the biscuits. Leave some for me, please.
+==
+(to) leave (sth.)
+--
+1. lassen, 2. übrig lassen, 3. zurücklassen, 4. verlassen, 5. weggehen, abfahren
+--
+Don't leave the windows open when you go.
+Don't you think we should leave some scones for Mum?
+You shouldn't leave your dog in the car when you go shopping.
+It's sad: Mike's mum wants to leave his dad.
+We're leaving. When does the bus to Plymoth leave?
+==
+bath
+--
+Bad
+-- 
+(to) have a bath / (to) take a bath
+==
+(to) bring
+--
+(mit-, her-)bringen
+--
+[brought | brought]
+==
+(to) buy
+--
+kaufen
+--
+[bought | bought]
+==
+(to) feed
+--
+füttern
+--
+[fed | fed]
+==
+(to) hear
+--
+hören
+--
+[heard | heard]
+==
+(to) meet
+--
+(sich) treffen
+--
+[met | met]
+==
+(to) run
+--
+rennen, laufen
+--
+[ran | run]
+==
+(to) take
+--
+(mit-)nehmen; (weg-, hin-)bringen
+--
+[took | taken]
+==
+(to) throw
+--
+werfen
+--
+[threw | thrown]
+==
+(to) wake up
+--
+aufwachen
+--
+[woke up | woken up]
+==
+(to) win
+--
+gewinnen
+--
+[won | won]
+==
+(to) write
+--
+schreiben
+--
+[wrote | written]
+==
+Oh dear!
+--
+Oje!
+--
+Oh dear, English hat lots of irregular past particles.
+==
+## Part B
+==
+lamb
+--
+Lamm
+==
+barn
+--
+Scheune
+==
+bacon
+--
+Schinkenspeck
+--
+On Sundays, I always have bacon and eggs and a glass of orange juice for breakfast.
+==
+egg
+--
+Ei
+--
+On Sundays, I always have bacon and eggs and a glass of orange juice for breakfast.
+==
+a glass (of)
+--
+ein Glas
+--
+On Sundays, I always have bacon and eggs and a glass of orange juice for breakfast.
+==
+delicious
+--
+köstlich
+--
+The pizze looked delicious, but it tasted very funny.
+==
+Have you ever been to ...?
+--
+Bist Du jemals in ... gewesen?
+--
+Have you ever been to Italy?
+Oh yes, many times.
+==
+Have you ... yet?
+--
+Hast Du schon ...?
+--
+Have you done your homework yet? < vs > 
+I'm hungry. I haven't had breakfast yet. 
+==
+I'd love to ...
+--
+Ich würde sehr gerne ...
+--
+I'd love to look at the lamby now.
+==
+dirty 
+--
+schmutzig
+--
+dirty < > clean
+==
+a pair (of)
+--
+ein Paar
+--
+a pair of trainers / walking boots
+==
+(to) lose
+--
+verlieren
+--
+[lost | lost]
+(to) lose money / a job < > (to) find money / a job
+(to) lose a match < > (to) win a match
+==
+strong
+--
+stark, kräftig
+==
+anything?
+--
+(irgend-)etwas?
+--
+Do you know anything about sheep farming?
+==
+sweet
+--
+süß
+==
+heavy
+--
+schwer
+--
+a heavy box < > a hard exercise
+==
+one more photo
+--
+noch ein Foto; ein weiteres Foto
+--
+We need two more photos and one more article for our school magazine.
+==
+quick
+--
+schnell
+--
+We had a quick bath after football.
+==
+(to) be missing
+--
+fehlen
+--
+Almost all my friends were at the party. Only Olivia was missing.
+==
+(to) choose
+--
+(aus-)wählen
+--
+[chose | chose]
+==
+(to) drink
+--
+trinken
+--
+[drank | drunk]
+==
+(to) find
+--
+finden
+--
+[found | found]
+==
+(to) hit
+--
+schlagen
+--
+[hit | hit]
+==
+(to) read
+--
+lesen
+--
+[read | read]
+==
+(to) ride
+--
+reiten; (Rad) fahren
+--
+[rode | ridden]
+==
+(to) sell
+--
+(ver-)kaufen
+--
+[sold | sold]
+==
+(to) show
+--
+zeigen
+--
+[shown | shown]
+==
+(to) sleep
+--
+schlafen
+--
+[slept | woken up]
+==
+(to) mark (sth.) up
+--
+etwas markieren
+==
+(to) decide
+--
+beschließen
+--
+We decided to do a prohect about Dartmoor.
+==
+(to) be interested (in)
+--
+interessiert sein (an),
+sich interessieren (für) 
+--
+an interesting book < > I'm interested in history.
+==
+waterfall
+--
+Wasserfall
+==
+train 
+--
+Zug
+--
+I met two boys from Italy on the train to Berlin.
+==
+(to) take
+--
+(Zeit) brauchen; dauern
+--
+The bus to the station only takes 15 Minutes.
+==
+stamp
+--
+Stempel
+==
+## Part C
+==
+everywhere
+--
+überall
+--
+Oh no, look what you've done! Now there's water everywhere.
+==
+for ever
+--
+(für) immer, ewig
+--
+I hope Simon arrives soon. We can't wait for ever.
+==
+for miles
+--
+meilenweit
+--
+1 mile ~ 1,6 kilometres
+==
+(to) hurt
+--
+schmerzen, wehtun;
+verletzten
+--
+My feet hurt. < > I hurt my foot in a match. < > Look, da man is hurt.
+[hurt | hurt]
+==
+not .. any more
+--
+nicht mehr
+--
+The Greens don't live here any more. They're in London now.
+==
+across the moor / the street
+--
+(quer) über das Moor / die Straße
+--
+He ran across the roud in front of a fast car.
+==
+impossible 
+--
+unmöglich
+--
+It's impossible to run a mile in two minutes 
+==
+(to) pass (sth. / sb.)
+--
+an (etwas / jemandem) vorbei fahren / gehen
+--
+I pass 14 shops every morning on my way to school.
+==
+path
+--
+Pfad, Weg
+==
+raincoat
+--
+Regenmantel
+==
+coat
+--
+Mantel
+==
+until
+--
+bis
+--
+We wached TV until 11pm last night.
+==
+(to) cry
+--
+schreien; weinen
+--
+Someone cried "Help!" from an upstairs window.
+==
+jigsaw
+--
+Puzzle
+==
+otter
+--
+Otter
+--
+otter < > adder
+==
+verse
+--
+Vers, Strophe
+==
+(to) train
+--
+trainieren
+==
+deer
+--
+Reh, Hirsch
+--
+pl. deer
+==
+adder
+--
+Kreuzotter
+--
+otter < > adder
+==
+## The tulpic garden
+==
+tulip
+--
+Tulpe
+==
+adventure
+--
+Abenteuer
+==
+(to) nod
+--
+nicken
+--
+(to) nod your head < > (to) shake your head
+==
+(to) wander
+--
+herumlaufen; herumirren
+--
+We wandered through the town and looked at the old buildings.
+==
+cocoa
+--
+Kakao
+==
+both
+--
+beide
+--
+Do you want to buy both T-shirts?
+==
+fireplace
+--
+Kamin
+==
+a mug (of)
+--
+ein Becher
+--
+I love a mug of hot cocoa when it's cold outside. 
+==
+ruin
+--
+Ruine
+==
+ground
+--
+(Erd-)Boden
+--
+ground < > floor
+==
+pretty
+--
+hübsch
+==
+cottage
+--
+Häuschen, Cottage
+==
+full (of)
+--
+voll
+--
+Parts of Devon are full of tourists in the summer.
+==
+one night / day
+--
+eines Nachts / Tags
+--
+One night our cat went out and never came back.
+==
+(to) believe 
+--
+glauben
+==
+kind
+--
+freundlich, nett
+==
+(to) look closely
+--
+genau hinschauen
+--
+"Is there really a bird in that tree? Ican't see it."
+==
+honour
+--
+Ehre
+==
+a nearby town
+--
+eine nahegelegene Stadt
+==
+(to) move
+--
+(um-)ziehen, (ein-)ziehen
+--
+The Greens have moved to London.
+And the Browns want to move too.
+The Greens moved into a nice house in Richmond.
+When did they move in?
+==
+instead
+--
+stattdessen
+--
+I don't want to go swimming. Can' we go sailing instead?
+==
+not ... either 
+--
+auch nicht
+--
+I'm not going to Sue's party - I'm not going either.
+My sister doesen't like zoos, and I don't either.
+==
+fence
+--
+Zaun
+==
+around ... 
+--
+um ... (herum)
+--
+We walked around we found a nice café.
+They rode their bikes around the village.
+Let's run around the lake. Can we meet around 6pm?
+==
+(to) grow
+--
+wachsen
+--
+[grew | grown]
+Orange trees don't grow in old countries.
+==
+(to) plant
+--
+pflanzen
+--
+The Gardening Club is going to plant some trees.
+==
+not even
+--
+(noch) nicht einmal
+--
+He even opened the letter! < > He din't even open the letter.
+==
+grave
+--
+Grab
+==
+(to) appear
+--
+erscheinen, auftauchen
+--
+(to) appear < > (to) disappear
